@@ -1,0 +1,308 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Lysbone, directed to Captain Thomas Harrison: wherein is contained a brief relation of the several transactions between the Parliaments fleet, and Prince Ruperts, both lying in the river of Lysbone. Also the King of Portugals congratulation with the States General. Together with a list of the several vessels and commanders of each fleet.</title>
+            <author>Hasclock, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86089</idno>
+            <idno type="STC">Wing H1119</idno>
+            <idno type="STC">Thomason E598_3</idno>
+            <idno type="STC">ESTC R206309</idno>
+            <idno type="EEBO-CITATION">99865482</idno>
+            <idno type="PROQUEST">99865482</idno>
+            <idno type="VID">165596</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86089)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165596)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 92:E598[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Lysbone, directed to Captain Thomas Harrison: wherein is contained a brief relation of the several transactions between the Parliaments fleet, and Prince Ruperts, both lying in the river of Lysbone. Also the King of Portugals congratulation with the States General. Together with a list of the several vessels and commanders of each fleet.</title>
+                  <author>Hasclock, John.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Lodowick Lloyd and Henry Cripps, and are to be sold at their shop in Popes-head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Singed: John Hasclock.</note>
+                  <note>Annotation on Thomason copy: "Aprill. 13. 1649"; the imprint date is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lisbon (Portugal) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165596:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <p>A Letter from Lysbone, DIRECTED To Captain <hi>Thomas Harriſon:</hi> Wherein is contained a brief RELATION OF THE Several Tranſactions BETWEEN The <hi>Parliaments</hi> Fleet, and Prince <hi>Ruperts,</hi> both lying in the River of Lysbone. Alſo the King of <hi>Portugals</hi> Congra<g ref="char:EOLhyphen"/>tulation with the States General. Together with a Liſt of the ſeveral Veſſels and Commanders of each Fleet.</p>
+            <p>
+               <date>
+                  <add>Aprill .13.</add>
+               </date> 
+               <hi>LONDON,</hi> Printed for <hi>Lodowick Lloyd</hi> and <hi>Henry Cripps,</hi> and are to be ſold at their ſhop in <hi>Popes-head Alley.</hi> 1650. <date>
+                  <add>1649</add>
+               </date>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165596:2"/>
+            <!-- PDF PAGE 5 -->
+            <pb n="3" facs="tcp:165596:2"/>
+            <!-- PDF PAGE 5 -->
+            <head>A LETTER FROM <hi>LYSBONE,</hi> Directed to Captain <hi>Tho: Harriſon,</hi> &amp;c.</head>
+            <opener>
+               <salute>HONORED SIR,</salute>
+            </opener>
+            <p>MY Service tendered unto you, I de<g ref="char:EOLhyphen"/>ſire to acquaint you of the Lords gracious dealing with us, in this our deſign hitherto: for indeed it is very remark<g ref="char:EOLhyphen"/>able, that ſuch a Fleet of Ships, as ours, ſhould run ſuch a diſtance without loſing of company, or any other accident (in the leaſt) happening to either of them: For,
+<pb n="4" facs="tcp:165596:3"/>
+               <!-- PDF PAGE 6 -->
+bleſſed be God, ſetting Sail from the Cowes the firſt preſent, we arrived with very ſea<g ref="char:EOLhyphen"/>ſonable weather in nine days (all ſafe and well) in Caſt-Cales Road, which was the tenth in the morning; and there under<g ref="char:EOLhyphen"/>ſtood that Rupert intended to ſet ſail within two days, which was very true; whereup<g ref="char:EOLhyphen"/>on the General ſent to the King of Portugal for leave to come into the River of Lisbone: And the next day, being the eleventh, we wayed, and intended to go into the River, and lay them aboard forthwith, with as much reſolution and courage as I have ſeen in men. But when we came neer the Caſtles, they both ſhot at us (Julians and the other) divers ſhot; upon which we came to Anchor betwixt the Ketchupps, and ſent a Boat a ſhoar to know the Reaſon of their ſhooting at us: The Captain of the great Caſtle (Julians) ſent Anſwer, That he had not Order from the King to let us come into the River. The Merchant ſhips that came with us ſeeing this, ſet Sail for the Straights; viz. Captain Tho: Aſhly, Knight,
+<pb n="5" facs="tcp:165596:3"/>
+               <!-- PDF PAGE 6 -->
+and Captain Luttun carryed the Agent for Saint Lucar. The twelfth, the King ſent one of his greateſt Nobles to congratulate with the General, deſiring us not to come in, except the weather proved bad, where<g ref="char:EOLhyphen"/>by we could not Ride where we were; it being his fear that we would quarrel or fight in his Harbor: Upon the return of his Meſſenger, the King ſent the General a large preſent of proviſions for refreſhment. The eighteenth at night, the weather beginning to prove foul, we came into the Bay of Wy<g ref="char:EOLhyphen"/>ers in the River, two miles diſtant from Ru<g ref="char:EOLhyphen"/>pert; of what ſhips he hath, I have incloſed you a Liſt: he hath made three fire ſhips alſo. He leaveth no means unattempted, by lyes and abſurdities, to make us odious: his Declaration ſhould have been incloſed, but I conceive you will have it in print: his men come from him dayly to us: and the Swallow was coming to us alſo the laſt week, but was diſcovered; they had one Anchor aboard: the Boatſwain they have clapt in chains: Sir John Mince is gone a<g ref="char:EOLhyphen"/>ſhoar
+<pb n="6" facs="tcp:165596:4"/>
+               <!-- PDF PAGE 7 -->
+ſick, and I beleeve will hardly trouble them any more: We are informed that their Admiral hath not above fourty Sea-men, and very few there are in the reſt of his ſhips, onely Renegadoes and Bandithoes: To write the helliſh expreſſions that come from their mouths, would make a man tremble; in ſo much that I verily beleeve they are ripe to deſtruction: they are more like devils, then men, ſay all that come from them. Here are divers Merchant ſhips, of whom two are coming home, viz. Mr Tanner, and Mr Heaman. Rupert ex<g ref="char:EOLhyphen"/>pects ayd from the French, and we hear there are four ſail coming to him with three hundred men apeece: Our Agent had audi<g ref="char:EOLhyphen"/>ence from the King the twenty ſecond pre<g ref="char:EOLhyphen"/>ſent, of which I beleeve you will have more fully by others: but Captain Molton went aſhoar the twenty third, to ſatisfie the King, in anſwer to Ruperts Declaration, with its falſities. Truly Sir, I am confident God wil give theſe ſhips to us, before we part from them: but his time is the beſt time and his
+<pb n="7" facs="tcp:165596:4"/>
+               <!-- PDF PAGE 7 -->
+way the beſt. To our aſſiſtance I hope we have the prayers of all godly honeſt men, and we ſhall wait Gods leaſure. I have not elſe at preſent, but to give you thanks for divers favors, and continue,</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your Servant in what I may <hi>John Haſclock.</hi>
+               </signed>
+               <dateline>
+                  <hi>Bonaventure</hi> in <hi>Lyſbona</hi> River, <date>March 28. 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="text">
+            <pb n="8" facs="tcp:165596:5"/>
+            <!-- PDF PAGE 8 -->
+            <p>
+               <table>
+                  <head>A Liſt of Prince Ruperts Fleet.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">Guns.</cell>
+                  </row>
+                  <row>
+                     <cell>PRince <hi>Rupert</hi> General.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Kittleby</hi> Admiral, Conſtant Reformation, Mr <hi>Fernes</hi> Maſter of Admiral.</cell>
+                     <cell>52</cell>
+                  </row>
+                  <row>
+                     <cell>Prince <hi>Maurice,</hi> Convertine, Viceadmiral,</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>John Mince,</hi> Swallow, Rereadmiral,</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Second <hi>Charls,</hi> Capt. <hi>Marſhal</hi> Captain, <gap reason="illegible: damage" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Yeuſtes Smith ſhip.</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Gouldin,</hi> Black Prince,</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Langley,</hi> A Scot,</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Barniby Burly,</hi> Rawbuck, Mr <hi>Hargroves</hi> ſhip.</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Michel,</hi> Capt. of the ſhip that was Mr <hi>Jacksons, Guns</hi> 
+                     </cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>John Mucknel,</hi> in the Mary,</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>Blackamore Lady is ſaid to be ſold,</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>Black Knight,</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Total Guns.</cell>
+                     <cell>360</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>The Parliament of Englands Fleet.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">Guns.</cell>
+                  </row>
+                  <row>
+                     <cell>General <hi>Blake.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Thorowgood,</hi> Saint George.</cell>
+                     <cell>57</cell>
+                  </row>
+                  <row>
+                     <cell>Capt <hi>Maulto,</hi> ſenior, Leopard, Viceadmiral,</cell>
+                     <cell>56</cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Boddilow,</hi> Entrance, Rereadmiral,</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Harris,</hi> Boneadventure,</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Baule,</hi> Adventure, Frigot,</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Salting stone,</hi> The John,</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Benj: Blake,</hi> The Aſſurance, Frigot,</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Moulton,</hi> junior, Conſtant Warwick,</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Peacock,</hi> The Tigar Frigot,</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Pearce,</hi> The Providence Frigot,</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Wheeler,</hi> The Expedition Frigot,</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Roſe,</hi> The Signet, a fire ſhip,</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>The Whelp, a fire ſhip,</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>The two Ketches,</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Total Guns.</cell>
+                     <cell>454</cell>
+                  </row>
+               </table>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
